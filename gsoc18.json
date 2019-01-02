@@ -1,0 +1,922 @@
+{
+    "3DTK": {
+        "Tech": ["c/c++", " cmake", "opencv", "ros", "boost"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "52° North Initiative for Geospatial Open Source Software GmbH": {
+        "Tech": ["javascript", " java", "spring", "r", "big data"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "AerospaceResearch.net": {
+        "Tech": ["python", "c/c++", "vhdl", "boinc", " java"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "aimacode": {
+        "Tech": [" python", " java", " javascript", "ai", "jupyter"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Amahi": {
+        "Tech": ["ruby on rails", "golang", "swift", "javascript", "android"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "AOSSIE - Australian Open Source Software Innovation and Education": {
+        "Tech": [
+            "scala",
+            "isabelle proof assistant",
+            "browser extension",
+            "javascript/html5/css3",
+            "android/ios"
+        ],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Apache Software Foundation": {
+        "Tech": ["c", "java", "erlang"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Apertium": {
+        "Tech": ["c++", "python", "xml", "fsts"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Apertus Association": {
+        "Tech": ["fpga", "embedded", "linux", "c/c++", "vhdl"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "appleseedhq": {
+        "Tech": ["c/c++", "qt"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "ArduPilot": {
+        "Tech": ["drones", "python", "linux", "c/c++", "robotics"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "BeagleBoard.org Foundation": {
+        "Tech": ["linux", "gcc", "real-time", "physical computing", "iot"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Beam Community": {
+        "Tech": ["erlang", "xmpp"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "BeeWare Project": {
+        "Tech": ["python", "ios", "android", "javascript", " java"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Berkman Klein Center for Internet & Society at Harvard University": {
+        "Tech": [
+            "ruby on rails",
+            "meteor.js",
+            "elasticsearch",
+            "javascript",
+            "elk"
+        ],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Blender Foundation": {
+        "Tech": ["c", "c++", "python", "opengl", "opencl"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Boost C++ Libraries": {
+        "Tech": ["c++11", "c++14", "c++", "c++17"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Boston University / XIA": {
+        "Tech": [
+            "xia",
+            "linux kernel",
+            "c",
+            "advanced data structures",
+            " ddos"
+        ],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "BRL-CAD": {
+        "Tech": ["c/c++", "qt", "opengl", "opencl", "tcl/tk"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Canadian Centre for Computational Genomics": {
+        "Tech": ["r", "perl", "awk", "bash", "python"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Catrobat": {
+        "Tech": ["java", "android", "ios", "espresso"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "CCExtractor Development": {
+        "Tech": ["c", "python", "arduino", "node.js", "c#"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Center for Research In Open Source Software (CROSS) at UC Santa Cruz": {
+        "Tech": ["ceph", "hadoop", "c++", "javascript", " python"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "CERN-HSF": {
+        "Tech": [
+            "c/c++",
+            "python",
+            "data analysis",
+            "machine learning",
+            "parallelization"
+        ],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "CGAL Project": {
+        "Tech": ["c++", "github", "git"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "CHAOSS: Community Health Analytics Open Source Software": {
+        "Tech": ["python 3", " javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "Checker Framework": {
+        "Tech": ["java"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5067792839606272/"
+    },
+    "CiviCRM LLC": {
+        "Tech": ["php", "mysql", "angularjs", "d3.js"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Classical Language Toolkit": {
+        "Tech": [" python", " javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "CLiPS, University of Antwerp": {
+        "Tech": ["python", "javascript", "mongodb"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Cloud Native Computing Foundation (CNCF)": {
+        "Tech": ["kubernetes", "prometheus", "grpc", "docker", "golang"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "CloudCV": {
+        "Tech": [
+            "machine learning",
+            "deep learning",
+            "computer vision",
+            "artificial intelligence",
+            "cloud"
+        ],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "coala": {
+        "Tech": ["django", "python 3", "antlr", "emberjs", "reactjs"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Computational Biology @ University of Nebraska-Lincoln": {
+        "Tech": ["javascript", "webgl", "reactjs", "flask"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Conversations.im": {
+        "Tech": ["java", "android", "xmpp", "gtk", "javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Cuneiform Digital Library Initiative": {
+        "Tech": ["python", "mariadb", "rdf", "php", "nltk"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "DBpedia": {
+        "Tech": ["rdf", "scala", "sparql"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Debian Project": {
+        "Tech": ["javascript", " ruby", " java", " python", "c/c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Developers Italia": {
+        "Tech": ["python", "ruby", "node.js", " java", "c/c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Digital Impact Alliance": {
+        "Tech": ["android", "java", "php", " python", " javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Django Software Foundation": {
+        "Tech": ["python", "django"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "Drupal": {
+        "Tech": [
+            "web",
+            "web development",
+            "content management system",
+            "cms",
+            "object-oriented"
+        ],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Earth Science Information Partners (ESIP)": {
+        "Tech": [" kubernetes", " dask", " xarray", " python", "javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Elastic": {
+        "Tech": [" java", "golang", "node.js", "react", "jruby"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Eta": {
+        "Tech": ["haskell", "jvm", " java"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Fedora Project": {
+        "Tech": ["linux", "python", "git", "postgresql", "ansible"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "FFmpeg": {
+        "Tech": ["c", "asm", "git"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "FOSSASIA": {
+        "Tech": [
+            "java",
+            "javascript",
+            "python",
+            "android",
+            "artificial intelligence"
+        ],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "FOSSology": {
+        "Tech": ["php", "postgresql", "lamp", "linux", "c/c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Free and Open Source Silicon Foundation": {
+        "Tech": ["fpga", "verilog", "c", "chisel", "synthesis"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Free UK Genealogy": {
+        "Tech": ["mongodb", "ruby on rails", "mysql", "python", " css/html"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "FreeBSD": {
+        "Tech": ["c/c++", "llvm", " shell script", "assembly", "make"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "FreeType": {
+        "Tech": ["c", "gnu make", "gnu autotools", "python", "fonts"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "freifunk": {
+        "Tech": ["openwrt", "javascript", "html", "c", " python"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Genes, Genomes and Variation": {
+        "Tech": ["perl", "mysql", "java script"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "GENIVI Alliance": {
+        "Tech": ["yocto", "c/c++", "java"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Gentoo Foundation": {
+        "Tech": [" shell script", "bash", "c/c++", " python", "linux"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "GFOSS - Open Technologies Alliance": {
+        "Tech": [
+            "python 3",
+            "php/javascript/html",
+            " css/html",
+            "java",
+            "c/c++"
+        ],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Git": {
+        "Tech": ["c", " shell script", " git"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Global Alliance for Genomics and Health": {
+        "Tech": ["java", "python", "cloud", "c/c++", "mongodb"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "GNOME": {
+        "Tech": ["c", "python", " javascript", "gtk+", "gobject"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "GNSS-SDR": {
+        "Tech": ["c/c++", "gnss", "c++11", "c++14"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "GNU Compiler Collection (GCC)": {
+        "Tech": ["c++", "c", "openmp"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "GNU Octave": {
+        "Tech": ["c++", "hg"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "GNU Project": {
+        "Tech": ["c", "lisp", "python"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "GNU Radio": {
+        "Tech": ["c++", "python", "simd", "qt"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Godot Engine": {
+        "Tech": ["c++", "cpp", "opengl", "github", "crossplatform"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "gRPC": {
+        "Tech": ["grpc", "microservices", "distributed systems", "cloud"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Haiku": {
+        "Tech": ["c++", "webkit", "ffmpeg", "posix", "bsd unix"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Haskell.org": {
+        "Tech": ["haskell"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5067792839606272/"
+    },
+    "Homebrew": {
+        "Tech": ["ruby", "git", "macos", "rspec", "bash"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "INCF": {
+        "Tech": ["python", "c/c++", "javascript", "cuda", "xml"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Inclusive Design Institute": {
+        "Tech": ["javascript", "html", "css", "node.js", "php"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Inkscape": {
+        "Tech": ["svg", "css", "c++11", " python", "gtk+"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Inria Foundation": {
+        "Tech": ["c/c++", "qt", "webassembly", "asm", "communication protocol"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Institute for Artificial Intelligence": {
+        "Tech": ["c++", "python", "ros", "unreal engine", "lisp"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Intel Media And Audio For Linux": {
+        "Tech": ["video", "codecs", "hardware acceleration", "va-api", "c"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "InterMine": {
+        "Tech": ["postgresql", " java", " javascript", "python", "clojure"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Internet Archive": {
+        "Tech": ["pthon", "javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "Internet Systems Consortium": {
+        "Tech": ["dhcp", "c/c++", "mysql", "cassandra", "rest"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "JBoss Community": {
+        "Tech": [" java", "android", "ios", "opentracing", "apache kafka"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "JdeRobot - Universidad Rey Juan Carlos": {
+        "Tech": ["ros", "python", "c++", "gazebo", "opencv"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Jenkins project": {
+        "Tech": [" java", "groovy", " javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "JGraphT": {
+        "Tech": ["java"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5067792839606272/"
+    },
+    "Jitsi": {
+        "Tech": ["java", "javascript", "webrtc", "react", "react native"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Joomla!": {
+        "Tech": ["php", " javascript", "mysql", "html5/css3", "cms"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "JSK Robotics Laboratory / The University of Tokyo": {
+        "Tech": ["ros"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5067792839606272/"
+    },
+    "KDE Community": {
+        "Tech": ["qt", "c/c++", "qml"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Kiwix": {
+        "Tech": ["android", "java", "c++", "python", "qt"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "LabLua": {
+        "Tech": ["lua", "céu"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "languagetool.org": {
+        "Tech": ["java", "javascript", "machine learning", "ai", "tensorflow"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "LEAP Encryption Access Project": {
+        "Tech": ["python", "twisted", "javascript", "openvpn", "gnupg"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "LibreHealth": {
+        "Tech": ["java", "php", " javascript", "mysql", "webcomponents"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "LibreOffice": {
+        "Tech": ["c++", "java", "python"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "libvirt": {
+        "Tech": ["hypervisor", "kvm", "xen", "lxc"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "LLVM Compiler Infrastructure": {
+        "Tech": ["llvm"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5067792839606272/"
+    },
+    "LuaRocks": {
+        "Tech": ["lua", "linux", "windows", "unix", "c"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "MariaDB Foundation": {
+        "Tech": ["mariadb", "mysql", "c", "c++", "java"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Matrix.org": {
+        "Tech": ["golang", "ios", " android", " python", "react"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "MetaBrainz Foundation Inc.": {
+        "Tech": ["python", "perl", "javascript", "postgresql", "react"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Metasploit": {
+        "Tech": ["ruby", "postgresql", "python", "c", "assembly"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Mixxx DJ Software": {
+        "Tech": ["qt", "audio", "music", "real-time", "c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "mlpack": {
+        "Tech": ["c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5067792839606272/"
+    },
+    "Mobile Robot Programming Toolkit (MRPT)": {
+        "Tech": ["c/c++", "cmake", "python", "webs"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Moodle": {
+        "Tech": ["php", " javascript", "ionic", "sql", "angular"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "MovingBlocks": {
+        "Tech": [" java", "opengl", "json", "blender", "github"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Mozilla": {
+        "Tech": ["javascript", "c++", "rust", "python", "css"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "MuseScore": {
+        "Tech": ["qt", "c++11", "cpp", "midi"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "National Resource for Network Biology (NRNB)": {
+        "Tech": ["java", "javascript", "python", "html", "c/c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Neovim": {
+        "Tech": ["lua", "c", "vim", "javascript", " python"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Netfilter project": {
+        "Tech": ["linux kernel", "c"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "NumFOCUS": {
+        "Tech": ["python", "julia", "r", "javascript", "c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "omegaUp.com": {
+        "Tech": ["php", "mysql", " python"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Open Bioinformatics Foundation": {
+        "Tech": ["python", " javascript", "d", "php", "c/c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Open Chemistry": {
+        "Tech": ["python", "c++", "javascript", " java", "opengl"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Open Data Kit": {
+        "Tech": [" android", " java"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "Open Food Facts": {
+        "Tech": ["perl", "mongodb", "ios", "android", "machine learning"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Open Roberta Lab": {
+        "Tech": ["java", "javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "Open Source Robotics Foundation": {
+        "Tech": ["c/c++", "python", "javascript", "ros", "gazebo"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Open States": {
+        "Tech": ["python", "django", "react", "graphql", "postgresql"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "OpenAstronomy": {
+        "Tech": ["python", "julia", "c++", "numba"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "OpenCensus": {
+        "Tech": ["python", "java", "ruby", "node", "go"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "OpenMRS": {
+        "Tech": [" java", "spring", "javascript", "rest", "mysql"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "OpenSIPS": {
+        "Tech": ["c", " python", "mysql", "scripting"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "OpenStreetMap": {
+        "Tech": ["postgis", " java", " ruby", " javascript", "c/c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "openSUSE": {
+        "Tech": ["ruby on rail", "perl", " ruby", "html/javascript", "c/c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "OpenWISP": {
+        "Tech": ["python", "django", "javascript", "openwrt", "linux"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "OpnTec": {
+        "Tech": ["python", "javascript", "emberjs", "cloud", "android"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Oppia Foundation": {
+        "Tech": ["angularjs", "python", " javascript", "appengine", " css"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "OSGeo": {
+        "Tech": ["c/c++", "standards", "python", "sql", "database"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "OW2": {
+        "Tech": ["java", "perl", "middleware", "bpm", "wiki"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "OWASP Foundation": {
+        "Tech": ["java", "net", "ruby", "javascript", "python"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "P2PSP.org": {
+        "Tech": ["python", " javascript", "webrtc", "sockets", "c/c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "PEcAn Project": {
+        "Tech": [" javascript", "postgresql", " php", "c", "r"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Performance Co-Pilot": {
+        "Tech": ["python", "redis", "c", "linux", "javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "phpBB Forum Software": {
+        "Tech": ["mysql", " javascript", "html5/css3", "php", "symfony"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "phpMyAdmin": {
+        "Tech": ["php", "mysql", "cakephp", "jquery", "javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Plone": {
+        "Tech": ["python", " javascript", "html", "css", "reactjs"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "PMD": {
+        "Tech": ["java", "xml", "javacc", "antlr", "xpath"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Pocket Science Lab": {
+        "Tech": ["android", "java", "firmware", "c", "cad"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Polly Labs": {
+        "Tech": ["c/c++", "llvm", "polly", "isl", "ppcg"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "PostgreSQL": {
+        "Tech": ["postgresql", "sql", "rdbms", "ordbms", "c"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Probot": {
+        "Tech": ["javascript", "node", "github"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Public Lab": {
+        "Tech": ["ruby on rails", "javascript", "node.js"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Purr Data": {
+        "Tech": ["javascript", "html5/css3", "node.js", "c/c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Python HYDRA": {
+        "Tech": ["python", "rdf", "flask", "hydra", "json/json-ld"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Python Software Foundation": {
+        "Tech": ["python"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5067792839606272/"
+    },
+    "QEMU": {
+        "Tech": ["c", "kvm"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "Quill.org": {
+        "Tech": ["ruby", "rails", "react", "javascript", "postgresql"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "R project for statistical computing": {
+        "Tech": ["r-project", "c", "c++", "javascript", "fortran"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "radare": {
+        "Tech": ["c", "cpp", "rust", "qt"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "ReactOS": {
+        "Tech": ["c", "c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "Read the Docs": {
+        "Tech": ["python", "sphinx", "django", "javascript", "elasticsearch"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Red Hen Lab": {
+        "Tech": [
+            "python",
+            "scikit-learn",
+            "tensorflow",
+            "singularity",
+            "syntaxnet"
+        ],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "RoboComp": {
+        "Tech": ["c/c++", "python", "cmake", "openscenegraph", "ice - zeroc"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Rocket.Chat": {
+        "Tech": [" javascript", "ios", "android", "node", "meteor.js"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Rspamd": {
+        "Tech": ["c", "machine learning", "javascript", "lua"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "RTEMS Project": {
+        "Tech": ["c", "python", "posix", "bsd unix"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Ruby": {
+        "Tech": ["ruby"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5067792839606272/"
+    },
+    "Ruby on Rails": {
+        "Tech": ["ruby", "ruby on rails", "html"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Ruby Science Foundation": {
+        "Tech": ["ruby", "c", "c++", "cuda"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Sage Mathematical Software System": {
+        "Tech": ["python 3", "python", "cython", "c/c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Scala": {
+        "Tech": ["scala", "jvm", "llvm"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Scilab": {
+        "Tech": ["c", "c++", "java", "scilab"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "ScummVM": {
+        "Tech": ["c++", "opengl", "sdl", "assembly"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Seastar": {
+        "Tech": ["cpp", "framework", "dpdk", "tcp", "linux"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Software and Computational Systems Lab at LMU Munich": {
+        "Tech": ["java", "python", " javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Space @ Virginia Tech": {
+        "Tech": ["python", "javascript", "d3", "mysql", "mongodb"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "SPDX": {
+        "Tech": ["rdf", " python", " java", "json"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Stemformatics": {
+        "Tech": ["python", "javascript", "postgresql"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "STE||AR Group": {
+        "Tech": ["c++", "cuda", "opencv", "python", "boost"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Stony Brook University Biomedical Informatics": {
+        "Tech": ["python", "matlab", "c++", "javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "strace": {
+        "Tech": ["linux", "c", "git", "shell script", "make"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Streetmix": {
+        "Tech": ["javascript", "react", "redux", "postgresql", "mongodb"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Submitty": {
+        "Tech": [
+            "python",
+            "c++",
+            "databases",
+            "web/html/css",
+            "php/javascript/ajax"
+        ],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Sugar Labs": {
+        "Tech": ["python", "javascript", "gtk+"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "Sustainable Computing Research Group (SCoRe)": {
+        "Tech": ["android", "java", "go", "node", "pyth"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Swift": {
+        "Tech": ["c++", "llvm", " cmake", "swift"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "SymPy": {
+        "Tech": ["python"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5067792839606272/"
+    },
+    "Systers Community": {
+        "Tech": ["ios", "android", "python", "ruby on rails", "javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "TEAMMATES @ National University of Singapore": {
+        "Tech": [" java", "appengine", "javascript"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "The Center for Connected Learning and Computer-Based Modeling": {
+        "Tech": [" javascript", "scala", "html5/css3"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/"
+    },
+    "The Eclipse Foundation": {
+        "Tech": ["php", " java", "xtext", "javascript", "c/c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "The Honeynet Project": {
+        "Tech": ["python 3", " python", "golang", "c/c++", "machine learning"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "The Java Pathfinder Team": {
+        "Tech": ["java", "jvm", "android", "distributed systems"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "The Libreswan Project": {
+        "Tech": ["c", "python", " shell script", "qemu"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "The Linux Foundation": {
+        "Tech": ["c", "c++", "cups", "ipp"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "The MacPorts Project": {
+        "Tech": ["tcl", "html/javascript", "frontend", "vue.js", "react.js"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "The Mifos Initiative": {
+        "Tech": ["java", "android", "spring", "angularjs", "mysql"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "The NetBSD Foundation": {
+        "Tech": ["c", "bsd make"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "The ns-3 Network Simulator Project": {
+        "Tech": ["c/c++", " python"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "The Processing Foundation": {
+        "Tech": ["java", "javascript", "python", "android", "opengl"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "The Qt Project": {
+        "Tech": ["c++11", "cpp", "qt", "qml", "opengl"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "The syslog-ng project.": {
+        "Tech": ["java", "c/c++", "big data", "elasticsearch", "rest"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "The Vega Visualization Tools by the UW Interactive Data Lab": {
+        "Tech": ["javascript", "typescript", "react", "d3.js"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "The Wine Project": {
+        "Tech": [" directx", " x11", " win32", "opengl", "c"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "TimVideos.us": {
+        "Tech": ["fpga", "verilog", "python", "c"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "TLA+": {
+        "Tech": ["java", "tla+", "eclipse", "ocaml", "smt"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "UCSC Xena": {
+        "Tech": [" javascript", "python", "clojure", "react", "jvm"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "VideoLAN": {
+        "Tech": ["c", "c++", "go", "vue.js"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "ViSP": {
+        "Tech": ["c/c++"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5067792839606272/"
+    },
+    "vitrivr": {
+        "Tech": ["java", "angularjs", "spark", "grpc"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "webpack": {
+        "Tech": [
+            "javascript",
+            "web development",
+            "html5/css3",
+            "node.js",
+            "webassembly"
+        ],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Wikimedia Foundation": {
+        "Tech": ["php", "javascript", "ruby on rails", "android", "reactjs"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "WorldBrain.io - Verifying the Internet": {
+        "Tech": ["react", "javascript", "browser extension", "datproject"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "X.org Foundation": {
+        "Tech": ["opengl", "vulkan", "x11", "wayland", "opencl"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Xapian Search Engine Library": {
+        "Tech": ["c++", "unicode", "swig", "linux", "golang"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "XBMC Foundation": {
+        "Tech": ["python", "c/c++", "github", "mysql"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/"
+    },
+    "Xi Editor Project": {
+        "Tech": ["rust", "swift"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/"
+    },
+    "xpra.org": {
+        "Tech": [
+            "python",
+            "javascript",
+            "compression",
+            "remote access",
+            "cython"
+        ],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "XWiki": {
+        "Tech": [" java", "javascript", "html5", "css3", "velocity"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    },
+    "Zulip": {
+        "Tech": ["python", "django", "javascript", "react native", "electron"],
+        "Link": "https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/"
+    }
+}
